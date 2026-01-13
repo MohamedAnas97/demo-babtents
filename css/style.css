@@ -42,15 +42,15 @@ Table of content:
   --heading-font-color-bg-dark: #ffffff;
   --heading-text-transform: none;
   /* h1 */
-  --h1-font-size: 60px;
+  --h1-font-size: 50px;
   --h1-font-weight: var(--heading-font-weight);
   --h1-letter-spacing: -0.02em;
   --h1-line-height: 1.15em;
   --h1-margin-bottom: 20px;
   /* h2 */
   --h2-font: var(--heading-font);
-  --h2-font-size: 40px;
-  --h2-font-weight: var(--heading-font-weight);
+  --h2-font-size: 32px;
+  --h2-font-weight: 700;
   --h2-letter-spacing: -0.015em;
   --h2-line-height: 1.2em;
   --h2-margin-bottom: 25px;
